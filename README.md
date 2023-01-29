@@ -1,16 +1,4 @@
-# flutter_ui
+# Location Access Screen
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 12 Pro - 2023-01-29 at 19 44 19](https://user-images.githubusercontent.com/119125942/215333933-4e54e550-b1b6-468c-9ae4-f0de271481fa.png)
